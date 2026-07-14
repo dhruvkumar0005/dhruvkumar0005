@@ -1,9 +1,7 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/dhruvkumar0005/dhruvkumar0005/main/assets/id-badge-banner.svg" width="100%">
 
-# Hi there, I'm Dhruv Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+# Hi there, I'm Dhruv Kumar <img src="https://raw.githubusercontent.com/dhruvkumar0005/dhruvkumar0005/main/assets/wave-badge.svg" width="45px">
 </div>
 
 <div align="center">
@@ -31,9 +29,7 @@ I'm a final-year B.Tech Computer Science (AI & ML) student who loves turning raw
 - 📈 Passionate about turning data into decisions
 
 🎓 **Education:** B.Tech, Computer Science & Engineering (AIML) — I.T.S Engineering College, Greater Noida
-
 ⚙️ **Current Interests:** Soft Skills • Machine Learning
-
 🤝 **Open to:** Internship & Full-time opportunities in Data Analytics / ML
 
 ---
@@ -41,9 +37,7 @@ I'm a final-year B.Tech Computer Science (AI & ML) student who loves turning raw
 ## 🧠 Tech Stack
 
 **Languages:** C++ • Python • SQL
-
 **AI/ML & Data:** NumPy • Pandas • OpenCV • Machine Learning • Power BI
-
 **Development/Tools:** VS Code • Jupyter Notebook • MySQL • Git & GitHub
 
 ---
@@ -53,13 +47,11 @@ I'm a final-year B.Tech Computer Science (AI & ML) student who loves turning raw
 ### 👤 Face Recognition Attendance System
 Automates attendance marking by detecting and recognizing faces in real time, eliminating manual roll calls.
 Built with **Python**, **OpenCV**, **NumPy**, **Pandas**, and **Machine Learning**.
-
 🔗 [View Repository](https://github.com/dhruvkumar0005)
 
 ### 📊 Customer Business Analysis
 Analyzes customer and sales data to uncover trends and business insights through interactive dashboards.
 Built with **Python**, **SQL**, and **Power BI**.
-
 🔗 [View Repository](https://github.com/dhruvkumar0005)
 
 ---
@@ -67,10 +59,8 @@ Built with **Python**, **SQL**, and **Power BI**.
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=dhruvkumar0005&show_icons=true&theme=dark&hide_border=true" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkumar0005&theme=dark&hide_border=true" width="48%">
-
 </div>
 
 ---
