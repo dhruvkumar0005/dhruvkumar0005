@@ -1,7 +1,7 @@
 <div align="center">
 <img src=https://github.com/dhruvkumar0005/dhruvkumar0005/blob/main/assests/dhruv-premium-github-banner.svg width="100%">
 
-# Hi there, I'm Dhruv Kumar <img src="https://raw.githubusercontent.com/dhruvkumar0005/dhruvkumar0005/main/assets/wave-badge.svg" width="45px">
+# Hi there, I'm Dhruv Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </div>
 
 <div align="center">
