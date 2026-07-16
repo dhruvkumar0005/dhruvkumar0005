@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dhruvkumar0005/dhruvkumar0005/main/assets/id-badge-banner.svg" width="100%">
+<img src=https://github.com/dhruvkumar0005/dhruvkumar0005/blob/main/assests/dhruv-premium-github-banner.svg width="100%">
 
 # Hi there, I'm Dhruv Kumar <img src="https://raw.githubusercontent.com/dhruvkumar0005/dhruvkumar0005/main/assets/wave-badge.svg" width="45px">
 </div>
